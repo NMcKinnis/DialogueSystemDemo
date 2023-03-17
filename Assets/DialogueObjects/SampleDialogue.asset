@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: SampleDialogue
   m_EditorClassIdentifier: 
   dialogue:
-  - Poor Sylkis, dead too soon.
-  - If only he had remembered to bring his gnome along for protection.
+  - If you press Enter at this screen you can see the next screen.
+  - Thanks for pressing enter, Would you like to press enter again?
+  - Great work. I'm tired now but thanks it's been fun.
